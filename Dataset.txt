@@ -1,0 +1,3 @@
+Get the gtsrb German Traffic Sign from the following link:
+
+https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
